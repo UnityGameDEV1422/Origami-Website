@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+}
+.title{
+    text-align: center;
+    font-style: bold;
+    font-size: 45px;
+    position: relative;
+    border: 4px solid grey;
+    background-color: lightsalmon;
+}
+.navigation a{
+    font-size: 26px;
+    padding: 16px;
+}
+a:link{
+    color: white;
+}
+a:visited{
+    color: red;
+}
+img{
+    border: 8px solid chartreuse;
+    border-radius: 40px;
+    background-color: black;
+    opacity: 1;
+}
+img:hover{
+    opacity: 0.6;
+}
+li{
+    text-align: center;
+    align-content: center;
+    color: cornsilk;
+    font-size: 22px;
+}
+ul{
+    font-style: oblique;
+}
+.cicada{
+    text-align: center;
+    margin-top: 25px;
+    padding: 17px;
+}
+.camel{
+    text-align: center;
+    margin-top: 25px;
+    padding: 17px;
+}
+.pigeon{
+    text-align: center;
+    margin-top: 25px;
+    padding: 17px;
+}
+.panda{
+    text-align: center;
+    margin-top: 25px;
+    padding: 17px;
+}
